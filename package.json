@@ -1,0 +1,11 @@
+{
+  "name": "butler-group",
+  "module": "index.html",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
